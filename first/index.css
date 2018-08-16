@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(202, 202, 202);
+}
+header{
+    height: 20vh;
+    width: 100vw;
+    background-color: #464646;
+}
+div{
+    width: 70%;
+    margin: auto;
+    /* height: 85vh; */
+    
+}
+#main{
+    height: 70vh;
+    background-color: white;
+}
+#bottom{
+    height: 10vh;
+    background-color: black;
+}

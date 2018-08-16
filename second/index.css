@@ -1,0 +1,70 @@
+#top{
+    background-color: white;
+    width: 95vw;
+    height: 20vh;
+    border-style: solid;
+    border-width: 4px;
+    margin: auto;
+    margin-top: 2.5vh;
+}
+#skinny_rectangle{
+    float: left;
+    background-color: #bf7ee6;
+    height: 13vh;
+    width: 5vw;
+    margin: 5vh 3vw 1vh 1vh;
+}
+#fat_rectangle{
+    float: left;
+    width: 35vw;
+    height: 90%;
+    margin: 1vh;
+    background-color: green;
+}
+#circle{
+    float: left;
+    height: 17vh;
+    width: 17vh;
+    border-radius: 50%;
+    margin: 1vh;
+    margin-left: 5vw;
+    background-color: lightskyblue;
+}
+#middle{
+    border-style: dotted;
+    border-width: 4px;
+    width: 95vw;
+    height: 30vh;
+    margin: auto;
+    margin-top: 2.5vh;
+}
+#shadow_box{
+    background-color: moccasin;
+    height: 70%;
+    width: 85vw;
+    margin: auto;
+    margin-top: 4vh;
+    box-shadow: 7px 7px 4px #585858;
+}
+#bottom{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dfdfdf;
+    width: 50vw;
+    height: 35vh;
+    box-shadow: 3px 3px 2px #cacaca;
+    margin: auto;
+    margin-top: 5vh;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 30px;
+   text-align: center;
+   letter-spacing: 5px;
+}
+#text_box{
+    height: 15vh;
+    margin: auto;
+    margin-top: 12.5vh;
+}
